@@ -65,6 +65,10 @@ export default {
     credentials: false,
   },
 
+  proxy: {
+    '/api/': { target: 'http://testuidok.herokuapp.com/api', pathRewrite: {'^/api2/' : ''}, changeOrigin: true },
+  },
+
   // Build Configuration: https://go.nuxtjs.dev/config-build
   build: {
     vendor: ["jquery"],
