@@ -19,9 +19,13 @@ $ npm run generate
 
 For detailed explanation on how things work, check out the [documentation](https://nuxtjs.org).
 
-## Special Directories
-
-You can create the following extra directories, some of which have special behaviors. Only `pages` is required; you can delete them if you don't want to use their functionality.
+## Description about this test
+- Memakai bootstrap dengan CDN agar mempercepat loading website, karena tidak menambah size hasil build (Namun bila nantinya akan menggunakan TailwindCSS, saya akan menyesuaikan lagi)
+- Di setiap page telah saya tambahkan component SEO seperti Meta title, meta description
+- Untuk CSS saya menggunakan SASS dan juga sudah saya minify guna mengecilkan size CSS yg berguna juga utk loading website kedepannya
+- Untuk penulisan code, saya buat terstruktur dengan memanfaatkan vuex agar lebih efisien dalam development kedepannya
+- Untuk di image, saya tambahkan alt agar kedepannya google ngedetect juga di google image search
+Untuk semua ini baik itu layout, fungsi dan security, pastinya tidak cukup hanya sprti ini saja, di karenakan waktu yang lumayan singkat. Terimakasih :)
 
 ### `assets`
 
