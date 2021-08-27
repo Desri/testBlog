@@ -1,0 +1,55 @@
+{
+  "success":true,
+  "data":[
+    {
+      "id": 1,
+      "title": "4 Kesalahan yang Membuat Sulit Membakar Lemak Sembari Membangun Otot",
+      "short_desc": "Untuk menghilangkan lemak, Anda perlu makan dengan kalori yang sedikit. Sementara, cara terbaik untuk membangun otot, adalah dengan makan dalam surplus kalori saat latihan.",
+      "category": "Gaya Hidup",
+      "img_url": "https://www.yesdok.com/visual/slideshow/p07ztf1q-article-1629801906.jpg?w=800?w=400",
+      "slug": "4-kesalahan-yang-membuat-sulit-membakar-lemak-sembari-membangun-otot",
+      "publish_date": "26 Aug 2021",
+      "isPremium": false
+    },
+    {
+      "id": 2,
+      "title": "Buah Apa Saja yang Bisa Membantu Menurunkan Berat Badan?",
+      "short_desc": "Buah dapat menjadi camilan yang sehat karena kaya akan berbagai nutrisi. Menjadikan buah sebagai camilan juga dapat membantu penurunan berat badan seseorang.",
+      "category": "Diet",
+      "img_url": "https://www.yesdok.com/visual/slideshow/buah apel-article-1628622111.jpg?w=800?w=400",
+      "slug": "buah-apa-saja-yang-bisa-membantu-menurunkan-berat-badan",
+      "publish_date": "26 Aug 2021",
+      "isPremium": true
+    },
+    {
+      "id": 3,
+      "title": "Manfaat Baby Gym Untuk Tumbuh Kembang Si Kecil",
+      "short_desc": "Apakah Anda suka berolahraga? Olahraga memang sangat baik bagi kesehatan. Anda pun bisa mengajak si kecil berolahraga sejak dini. Bayi sudah bisa diperkenalkan dengan olahraga mulai usia tiga bulan. Aktivitas olahraga pada si kecil disebut baby gym atau senam bayi.",
+      "category": "Pengasuhan",
+      "img_url": "https://www.yesdok.com/visual/slideshow/happy-beautiful-mother-child-family-together-gym-ball-coaching-article-1627918333.jpg?w=800?w=400",
+      "slug": "manfaat-baby-gym-untuk-tumbuh-kembang-si-kecil",
+      "publish_date": "26 Aug 2021",
+      "isPremium": false
+    },
+    {
+      "id": 4,
+      "title": "Ini Tips untuk Anda yang Bekerja dalam Shift Malam",
+      "short_desc": "Beberapa orang, khususnya mereka yang bekerja pada sektor pelayanan masyarakat, harus bekerja dalam shift, karena harus siap sedia dalam 24 jam. Saat tiba gilirannya mendapat shift malam, ini mungkin akan berat bagi orang-orang yang menjalaninya.",
+      "category": "Gaya Hidup",
+      "img_url": "https://www.yesdok.com/visual/slideshow/shift malam-article-1628262549.jpg?w=800?w=400",
+      "slug": "ini-tips-untuk-anda-yang-bekerja-dalam-shift-malam",
+      "publish_date": "26 Aug 2021",
+      "isPremium": false
+    },
+    {
+      "id": 5,
+      "title": "Hindari Kebiasaan Kurang Gerak Anak Selama Pandemi",
+      "short_desc": "Perpanjangan Pemberlakuan Pembatasan Kegiatan Masyarakat (PPKM) untuk menekan laju pandemi, membuat masyarakat tak terkecuali anak-anak lebih banyak menghabiskan waktu di rumah.",
+      "category": "Pengasuhan",
+      "img_url": "https://www.yesdok.com/visual/slideshow/two-happy-siblings-playing-game-with-wooden-blocks-home-joyfully-article-1627830561.jpg?w=800?w=400",
+      "slug": "hindari-kebiasaan-kurang-gerak-anak-selama-pandemi",
+      "publish_date": "26 Aug 2021",
+      "isPremium": false
+    }
+  ]
+}

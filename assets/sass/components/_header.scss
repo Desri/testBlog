@@ -1,0 +1,11 @@
+.bg-header {
+	background: $mainColor;
+	ul {
+		li {
+			a {
+				font-size: 17px;
+				color: $whiteColor !important;
+			}
+		}
+	}
+}

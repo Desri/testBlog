@@ -1,0 +1,44 @@
+.sidebar {
+	position: -webkit-sticky;
+	position: sticky;
+	top: 0px;
+	.heading {
+		position: relative;
+		padding-bottom: 5px;
+    	margin-bottom: 15px;
+		border-bottom: 2px solid $mainColor;
+		label {
+			font-size: 21px;
+		    font-weight: 600;
+		    margin-bottom: 0px;
+		    letter-spacing: -0.5px;
+		    text-transform: uppercase;
+		}
+		a {
+			p {
+			    right: 0;
+			    top: 5px;
+			    font-size: 14px;
+			    font-weight: 600;
+			    color: $mainColor;
+			    position: absolute;
+			}
+		}
+	}
+	.listArtikel {
+		.descArtikel {
+			width: 65%;
+			a {
+				h3 {
+					font-size: 18px;
+				}
+			}
+		}
+		.thumbArtkel {
+			width: 35%;
+			img {
+				height: 95px;
+			}
+		}
+	}
+}

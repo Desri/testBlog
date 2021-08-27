@@ -1,0 +1,105 @@
+{
+  "success":true,
+  "data":[
+    {
+      "id": 1,
+      "title": "4 Kesalahan yang Membuat Sulit Membakar Lemak Sembari Membangun Otot",
+      "short_desc": "Untuk menghilangkan lemak, Anda perlu makan dengan kalori yang sedikit. Sementara, cara terbaik untuk membangun otot, adalah dengan makan dalam surplus kalori saat latihan.",
+      "category": "Gaya Hidup",
+      "img_url": "https://www.yesdok.com/visual/slideshow/p07ztf1q-article-1629801906.jpg?w=800?w=400",
+      "slug": "4-kesalahan-yang-membuat-sulit-membakar-lemak-sembari-membangun-otot",
+      "publish_date": "26 Aug 2021",
+      "isPremium": false
+    },
+    {
+      "id": 2,
+      "title": "Buah Apa Saja yang Bisa Membantu Menurunkan Berat Badan?",
+      "short_desc": "Buah dapat menjadi camilan yang sehat karena kaya akan berbagai nutrisi. Menjadikan buah sebagai camilan juga dapat membantu penurunan berat badan seseorang.",
+      "category": "Diet",
+      "img_url": "https://www.yesdok.com/visual/slideshow/buah apel-article-1628622111.jpg?w=800?w=400",
+      "slug": "buah-apa-saja-yang-bisa-membantu-menurunkan-berat-badan",
+      "publish_date": "26 Aug 2021",
+      "isPremium": true
+    },
+    {
+      "id": 3,
+      "title": "Manfaat Baby Gym Untuk Tumbuh Kembang Si Kecil",
+      "short_desc": "Apakah Anda suka berolahraga? Olahraga memang sangat baik bagi kesehatan. Anda pun bisa mengajak si kecil berolahraga sejak dini. Bayi sudah bisa diperkenalkan dengan olahraga mulai usia tiga bulan. Aktivitas olahraga pada si kecil disebut baby gym atau senam bayi.",
+      "category": "Pengasuhan",
+      "img_url": "https://www.yesdok.com/visual/slideshow/happy-beautiful-mother-child-family-together-gym-ball-coaching-article-1627918333.jpg?w=800?w=400",
+      "slug": "manfaat-baby-gym-untuk-tumbuh-kembang-si-kecil",
+      "publish_date": "26 Aug 2021",
+      "isPremium": false
+    },
+    {
+      "id": 4,
+      "title": "Ini Tips untuk Anda yang Bekerja dalam Shift Malam",
+      "short_desc": "Beberapa orang, khususnya mereka yang bekerja pada sektor pelayanan masyarakat, harus bekerja dalam shift, karena harus siap sedia dalam 24 jam. Saat tiba gilirannya mendapat shift malam, ini mungkin akan berat bagi orang-orang yang menjalaninya.",
+      "category": "Gaya Hidup",
+      "img_url": "https://www.yesdok.com/visual/slideshow/shift malam-article-1628262549.jpg?w=800?w=400",
+      "slug": "ini-tips-untuk-anda-yang-bekerja-dalam-shift-malam",
+      "publish_date": "26 Aug 2021",
+      "isPremium": false
+    },
+    {
+      "id": 5,
+      "title": "Hindari Kebiasaan Kurang Gerak Anak Selama Pandemi",
+      "short_desc": "Perpanjangan Pemberlakuan Pembatasan Kegiatan Masyarakat (PPKM) untuk menekan laju pandemi, membuat masyarakat tak terkecuali anak-anak lebih banyak menghabiskan waktu di rumah.",
+      "category": "Pengasuhan",
+      "img_url": "https://www.yesdok.com/visual/slideshow/two-happy-siblings-playing-game-with-wooden-blocks-home-joyfully-article-1627830561.jpg?w=800?w=400",
+      "slug": "hindari-kebiasaan-kurang-gerak-anak-selama-pandemi",
+      "publish_date": "26 Aug 2021",
+      "isPremium": false
+    },
+    {
+      "id": 6,
+      "title": "Tips Menikmati BBQ Sehat Tanpa Khawatir Berat Badan Meningkat",
+      "short_desc": "Memasak BBQ yang enak selalu menjadi momen yang menarik untuk dilakukan bersama teman atau keluarga. Meski demikian, banyak yang khawatir dengan masalah berat badan setelah mengkonsumsi daging BBQ. ",
+      "category": "Gaya Hidup",
+      "img_url": "https://www.yesdok.com/visual/slideshow/5feaabdf7177a-article-1627979979.jpg?w=800?w=400",
+      "slug": "tips-menikmati-bbq-sehat-tanpa-khawatir-berat-badan-meningkat",
+      "publish_date": "26 Aug 2021",
+      "isPremium": false
+    },
+    {
+      "id": 7,
+      "title": "Tips Mengkonsumsi Daging Merah Agar Tidak Membahayakan Kesehatan",
+      "short_desc": "Bagi Anda penggemar makan daging merah, para ahli memperingatkan bahwa makan terlalu banyak daging merah bisa berdampak buruk bagi kesehatan Anda.",
+      "category": "Gaya Hidup",
+      "img_url": "https://www.yesdok.com/visual/slideshow/60ff19210d35a90018253dc5-article-1627464804.jpg?w=800?w=400",
+      "slug": "tips-mengkonsumsi-daging-merah-agar-tidak-membahayakan-kesehatan",
+      "publish_date": "26 Aug 2021",
+      "isPremium": true
+    },
+    {
+      "id": 8,
+      "title": "5 Cara Mengurangi Tampilan Pori-Pori yang Besar",
+      "short_desc": "Beberapa orang memiliki pori-pori yang besar dan sangat terlihat. Bagi orang dengan pori-pori besar, masalah seperti muka berminyak, jerawat, dan komedo mungkin sudah menjadi santapan sehari-hari mereka. ",
+      "category": "Gaya Hidup",
+      "img_url": "https://www.yesdok.com/visual/slideshow/portrait-lovely-calm-young-caucasian-woman-using-cotton-pads-makeup-removal-article-1627093423.jpg?w=800?w=400",
+      "slug": "5-cara-mengurangi-tampilan-pori-pori-yang-besar",
+      "publish_date": "26 Aug 2021",
+      "isPremium": false
+    },
+    {
+      "id": 9,
+      "title": "3 Makanan Terbaik untuk Bantu Jaga Kadar Gula Darah",
+      "short_desc": "Ketika seseorang menderita diabetes, tubuh mereka tidak menghasilkan cukup insulin, atau tidak dapat menggunakan insulin dengan benar, sehingga glukosa menumpuk di dalam darah. Kadar glukosa darah yang tinggi dapat menyebabkan berbagai gejala, mulai dari kelelahan hingga penyakit jantung.",
+      "category": "Diet",
+      "img_url": "https://www.yesdok.com/visual/slideshow/oatmeals-article-1629201344.jpg?w=800?w=400",
+      "slug": "3-makanan-terbaik-untuk-bantu-jaga-kadar-gula-darah",
+      "publish_date": "26 Aug 2021",
+      "isPremium": true
+    },
+    {
+      "id": 10,
+      "title": "Cara Alami Yang Bisa Membuat Tidur Lebih Puas",
+      "short_desc": "Sulit tertidur dapat membuat seseorang merasakan frustasi dan meningkatkan kelelahan di keesokan harinya. Namun, Anda dapat belajar untuk tertidur lebih cepat menggunakan beberapa cara alami yang sederhana.",
+      "category": "Gaya Hidup",
+      "img_url": "https://www.yesdok.com/visual/slideshow/asian-woman-holding-upper-pillow-isolated-purple-background-article-1627566808.jpg?w=800?w=400",
+      "slug": "cara-alami-yang-bisa-membuat-tidur-lebih-puas",
+      "publish_date": "26 Aug 2021",
+      "isPremium": false
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+#carouselMaster {
+	.box-img {
+		.box-caption {
+			position: absolute;
+		    bottom: 0;
+		    width: 100%;
+		    padding: 15px;
+		    background: linear-gradient(0deg,rgba(0,0,0,.8) 0,hsla(0,0%,100%,0));
+		    h1 {
+		    	font-size: 26px;
+			    font-weight: 700;
+			    text-align: left;
+			    margin-bottom: 10px;
+			    color: $whiteColor;
+		    }
+		    .caption-info {
+		    	overflow: hidden;
+		    	color: $whiteColor;
+		    	.caption-date {
+		    		float: left;
+				    font-size: 14px;
+				    margin-right: 20px;
+		    	}
+		    	.caption-seperator {
+		    		top: -3px;
+				    float: left;
+				    margin-right: 20px;
+				    position: relative;
+		    	}
+		    	.caption-comment {
+		    		float: left;
+				    font-size: 14px;
+				    padding: 0 15px;
+				    border-radius: 15px;
+				    border: 1px solid #fff;
+		    	}
+		    }
+		}
+	}
+}
