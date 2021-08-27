@@ -59,6 +59,12 @@ export default {
     '@nuxtjs/axios',
   ],
 
+  axios: {
+    proxy: true,
+    proxyHeaders: false,
+    credentials: false,
+  },
+
   // Build Configuration: https://go.nuxtjs.dev/config-build
   build: {
     vendor: ["jquery"],
